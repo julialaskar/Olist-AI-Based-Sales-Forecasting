@@ -28,7 +28,7 @@ This project is an end-to-end **predictive and prescriptive analytics dashboard*
 
 ---
 
-## 🧠 Business Insights (Generated)
+## 🧠 Business Insights
 
 - Sales are projected to grow steadily over the next 6 months.
 - **November** is expected to be the peak month — stock up inventory.
@@ -83,7 +83,7 @@ This project is an end-to-end **predictive and prescriptive analytics dashboard*
 ```bash
 /olist-sales-forecasting/
 │
-├── olistdashboard.PNG              # Final dashboard snapshot
+├── olistdashboard.              # Final dashboard on Power BI
 ├── olist_combined_sales.csv        # Actual + Forecast sales (for Power BI)
 ├── olist_sales_forecast.csv        # Forecast with confidence bounds
 ├── README.md                       # Project documentation
