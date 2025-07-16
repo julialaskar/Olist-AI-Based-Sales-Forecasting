@@ -83,7 +83,7 @@ This project is an end-to-end **predictive and prescriptive analytics dashboard*
 ```bash
 /olist-sales-forecasting/
 │
-├── olistdashboard.              # Final dashboard on Power BI
+├── olistdashboard.pbix             # Final dashboard on Power BI
 ├── olist_combined_sales.csv        # Actual + Forecast sales (for Power BI)
 ├── olist_sales_forecast.csv        # Forecast with confidence bounds
 ├── README.md                       # Project documentation
